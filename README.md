@@ -1,1 +1,2 @@
-# vehicle_que_detection_notification_system_in_gas_station
+# Vehicle que detection notification system in gas station 
+Nowadays in Sri Lanka one of a major problem is very big que for petrol, diesel, kerosene and lp gas. In my opinion the reason behind these big ques is everyone came to gas station at the same time. So, if we control this situation we can easily get the petrol, diesel, kerosene and lp gas with time save. That's why I developed this system for gas station with using their surveillance camera for vehicle detection. If a vehicle came to gas station automatically the vehicle will detect to the system then instantly the notification message will pass to my telegram bot called "Gas station" . You can see the how this system works.
